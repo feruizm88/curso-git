@@ -1,2 +1,3 @@
 estoy aprendiendo Git
 Git permite controlar las versiones de un proyecto.
+Estoy aprendiendo a trabajar con ramas.
