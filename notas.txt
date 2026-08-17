@@ -1,1 +1,2 @@
 estoy aprendiendo Git
+Git permite controlar las versiones de un proyecto.
